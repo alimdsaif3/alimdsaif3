@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saif-data/banner-image/main/banner.png" alt="Welcome Banner" width="100%"/>
+  <img src="https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile!" alt="Welcome Banner" width="100%"/>
 
   <h1>🌌 Md Saif Ali 🌌</h1>
   <h3>🚀 Data Scientist | AI Visionary | Generative AI Specialist</h3>
@@ -24,7 +24,7 @@
 
 ## 🌟 About Me
 
-Hi! I’m **Md Saif Ali**, a forward-thinking **Data Scientist** with **8+ years of experience** driving impactful innovations in **Artificial Intelligence**, **Generative AI**, and **Machine Learning**. My expertise lies in building **scalable AI systems**, implementing **MLOps pipelines**, and designing solutions that solve real-world problems.
+Hi! I’m **Md Saif Ali**, a forward-thinking **Data Scientist** with **7+ years of experience** driving impactful innovations in **Artificial Intelligence**, **Generative AI**, and **Machine Learning**. My expertise lies in building **scalable AI systems**, implementing **MLOps pipelines**, and designing solutions that solve real-world problems.
 
 - 🧠 **Current Focus**: Exploring **Large Language Models (LLMs)**, **AutoML**, and **Responsible AI**.
 - 💬 **Ask Me About**: Anything from **model optimization** to **AI ethics** and **MLOps pipelines**.
