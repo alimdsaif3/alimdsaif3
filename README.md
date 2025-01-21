@@ -1,4 +1,4 @@
-# 👨‍💻 Md Saif Ali - Data Scientist
+# 👨‍💻 Mohammad Saif Ali - Data Scientist
 
 🌟 Welcome to my GitHub profile! I am an experienced **Data Scientist** with a passion for solving real-world problems using Data Science, Machine Learning, and Generative AI. I specialize in building intelligent applications and deploying end-to-end solutions that make an impact.
 
