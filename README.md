@@ -64,49 +64,6 @@ Hi! I’m **Md Saif Ali**, a forward-thinking **Data Scientist** with **8+ years
 
 ---
 
-## 🏆 Career Highlights
-
-| **Year**   | **Role**                      | **Company**                     | **Key Contribution**                                                      |
-|------------|-------------------------------|---------------------------------|----------------------------------------------------------------------------|
-| 2021–Now   | Senior Engineer - Data Science| Altimetrik India Pvt. Ltd.      | Built **ML-driven transaction optimization** systems for VISA clients.    |
-| 2020–2021  | Machine Learning Engineer     | Emxcel Travel Solutions         | Delivered **NLP-powered segmentation systems** for travel insights.       |
-| 2017–2020  | Machine Learning Engineer     | Wipro Technologies              | Contributed to **AI for Autonomous Vehicles** using computer vision.      |
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 **LLM Fine-Tuning Pipeline**
-- **Description**: Designed a scalable pipeline for fine-tuning **GPT-4** with domain-specific data.  
-- **Tech Stack**: Hugging Face, PyTorch, AWS Sagemaker.  
-- **Impact**: Reduced model training time by 30%, achieving domain-adapted responses.
-
-### ⚡ **Yield Forecasting (Nature Sweet)**
-- **Description**: AI-powered 6-week yield forecasting for agricultural planning.  
-- **Tech Stack**: Python, SQL, Tableau.  
-- **Impact**: Improved forecasting accuracy by 25%, optimizing resource allocation.
-
-### 🌐 **CTA Data Automation (VISA)**
-- **Description**: Automated invoice-to-transaction matching using Spark and ML.  
-- **Tech Stack**: Spark, Hive, Python.  
-- **Impact**: Increased operational efficiency by 40%.
-
----
-
-## 🏅 Awards & Recognition
-
-- 🥇 **ML Expert Award**: For excellence in Machine Learning by Imarticus Learning.  
-- 🏆 **Great Team Award**: Recognized for leading a high-performing team to deliver outstanding results.  
-- 🌟 Multiple recognitions for innovation in **AI/ML solutions** across organizations.
-
----
-
-## 📈 Roadmap for 2025
-
-1. **Master Generative AI Techniques**: From image generation to multimodal LLMs.  
-2. **Deep Dive into Responsible AI**: Ethical implications and bias mitigation in AI systems.  
-3. **Expand MLOps Expertise**: Implement advanced CI/CD pipelines for AI projects.
-
 ---
 
 <div align="center">
