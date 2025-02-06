@@ -26,7 +26,7 @@
 
 Hi! I’m **Md Saif Ali**, a forward-thinking **Data Scientist** with **8+ years of experience** driving impactful innovations in **Artificial Intelligence**, **Generative AI**, and **Machine Learning**. My expertise lies in building **scalable AI systems**, implementing **MLOps pipelines**, and designing solutions that solve real-world problems.
 
-- 🧠 **Current Focus**: Exploring **Large Language Models (LLMs)**, **AutoML**, and **Responsible AI**.
+- 🧠 **Current Focus**: Exploring **Large Language Models (LLMs)**, **AutoML**, and **Generative AI**.
 - 💬 **Ask Me About**: Anything from **model optimization** to **AI ethics** and **MLOps pipelines**.
 - 🌍 **Vision**: Harnessing the power of data and AI to make the world smarter, fairer, and more efficient.
 
@@ -37,22 +37,19 @@ Hi! I’m **Md Saif Ali**, a forward-thinking **Data Scientist** with **8+ years
 ### **Programming Languages & Libraries**
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </div>
 
 ### **AI & ML Frameworks**
-- **Generative AI**: GPT-4, Stable Diffusion, DALL-E 3  
+- **Generative AI**: GPT-4, LLM's, Deepseek, LLM Studio, Perplexity, Ollama, Anything LLM, n8n
 - **LLMs**: Fine-tuning, prompt engineering, and deployment of **Hugging Face models**  
 - **Explainable AI (XAI)**: SHAP, LIME, and interpretability techniques  
-- **AutoML**: H2O.ai, Google AutoML, AWS Sagemaker Autopilot  
-- **MLOps Tools**: MLflow, Kubeflow, DVC, Docker, Kubernetes  
+- **AutoML**: Google AutoML, AWS Sagemaker Autopilot  
+- **MLOps Tools**: Docker, Kubernetes  
 
 ### **Data Visualization & Reporting**
 <div>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </div>
@@ -60,9 +57,7 @@ Hi! I’m **Md Saif Ali**, a forward-thinking **Data Scientist** with **8+ years
 ### **Big Data & Cloud Computing**
 - **Cloud Platforms**: AWS, Google Cloud, Azure  
 - **Big Data**: Apache Spark, Hadoop  
-- **Database Systems**: PostgreSQL, MongoDB, Redis  
-
----
+- **Database Systems**: PostgreSQL, MYSQL
 
 ---
 
