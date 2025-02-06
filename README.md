@@ -14,9 +14,6 @@
     <a href="mailto:alimdsaif3@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://saif-portfolio.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-    </a>
   </p>
 </div>
 
