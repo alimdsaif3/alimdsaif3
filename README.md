@@ -58,7 +58,7 @@ Hi! I’m **Md Saif Ali**, a forward-thinking **Data Scientist** with **8+ years
 <div>
   <img src="https://img.shields.io/badge/-Amazon Web Services-FF9900?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=for-the-badge&logo=plotly&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Azure-1E90FF?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=plotly&logoColor=white"/>
 </div>
 ---
 
