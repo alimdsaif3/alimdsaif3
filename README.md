@@ -51,14 +51,14 @@ Hi! I’m **Md Saif Ali**, a forward-thinking **Data Scientist** with **8+ years
 <div>
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-IBM Cognos-3F4F76?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-IBM Cognos-005D5D?style=for-the-badge&logo=plotly&logoColor=white"/>
 </div>
 
 ### **Big Data & Cloud Computing**
 <div>
-  <img src="https://img.shields.io/badge/-AWS-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Google Cloud-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Azure-3F4F76?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Amazon Web Services-FF9900?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=for-the-badge&logo=plotly&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Azure-1E90FF?style=for-the-badge&logo=plotly&logoColor=white"/>
 </div>
 ---
 
