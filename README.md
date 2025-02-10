@@ -54,9 +54,9 @@ Hi! I’m **Md Saif Ali**, a forward-thinking **Data Scientist** with **8+ years
 </div>
 
 ### **Big Data & Cloud Computing**
-- **Cloud Platforms**: AWS, Google Cloud, Azure  
-- **Big Data**: Apache Spark, Hadoop  
-- **Database Systems**: PostgreSQL, MYSQL
+- **Cloud Platforms**: AWS
+- **Big Data**: Hadoop  
+- **Database Systems**: MYSQL
 
 ---
 
