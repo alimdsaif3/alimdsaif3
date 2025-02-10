@@ -36,8 +36,7 @@ Hi! I’m **Md Saif Ali**, a forward-thinking **Data Scientist** with **8+ years
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQL-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Hugging Face-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/-Hugging Face-FFCC4D?style=for-the-badge&logo=tensorflow&logoColor=black"/>
 </div>
 
 ### **AI & ML Frameworks**
