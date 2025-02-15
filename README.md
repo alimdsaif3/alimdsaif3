@@ -49,19 +49,3 @@ I believe in **leveraging AI for human augmentation**, not replacement. My missi
 </div>
 
 ---
-
-## 📢 Connect with Me!
-<div>
-  <p>
-    <a href="https://linkedin.com/in/md-saif-ali-9815a774" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://github.com/alimdsaif3" target="_blank">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="mailto:alimdsaif3@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </p>
-  <h3>🚀 Innovating with AI & Creativity! 🚀</h3>
-</div>
