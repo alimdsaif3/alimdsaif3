@@ -43,7 +43,7 @@ I believe in **leveraging AI for human augmentation**, not replacement. My missi
 
 ### **☁️ Cloud & AI Platforms**
 <div>
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Amazon Web Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-Azure-8A2BE2?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </div>
