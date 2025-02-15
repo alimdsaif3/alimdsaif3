@@ -51,7 +51,7 @@ I believe in **leveraging AI for human augmentation**, not replacement. My missi
 ---
 
 ## 📢 Connect with Me!
-<div align="center">
+<div>
   <p>
     <a href="https://linkedin.com/in/md-saif-ali-9815a774" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
