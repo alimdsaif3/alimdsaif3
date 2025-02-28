@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 
-I’m **Md Saif Ali**, an **AI Engineer & Generative AI Specialist** with **8+ years** of experience in developing **scalable AI solutions**. My expertise lies in **LLMs, AI Agents, MLOps, and NLP**, focusing on **real-world AI applications** that enhance productivity, automation, and creativity.
+I’m **Md Saif Ali**, an **AI Engineer & Generative AI Engineer** with **8+ years** of experience in developing **scalable AI solutions**. My expertise lies in **LLMs, AI Agents, MLOps, and NLP**, focusing on **real-world AI applications** that enhance productivity, automation, and creativity.
 
 🚀 **Key Strengths**:
 - **Generative AI & NLP**: Extensive experience in **LLMs, text-to-image, AI chatbots**, and **content generation**.
