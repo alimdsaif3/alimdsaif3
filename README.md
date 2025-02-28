@@ -37,7 +37,7 @@ I believe in **leveraging AI for human augmentation**, not replacement. My missi
 </div>
 
 ### **🧠 AI & GenAI Expertise**
-✅ **LLMs & NLP**: GPT, BERT, Claude, Perplexity AI  
+✅ **LLMs & NLP**: GPT, BERT, Claude, PerplexityAI
 ✅ **AI Agents**: Autonomous AI workflows, RAG-based systems  
 ✅ **MLOps & Deployment**: Docker, Kubernetes, FastAPI, MLflow  
 
