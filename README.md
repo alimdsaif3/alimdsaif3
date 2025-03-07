@@ -1,7 +1,7 @@
 <div align="center">
   
   # 🌌 Md Saif Ali 🌌  
-  ## 🚀 AI Engineer | GenAI Specialist | AI Innovator  
+  ## 🚀 AI Engineer | GenerativeAI | AI Innovator  
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-saif-ali-9815a774)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alimdsaif3)
